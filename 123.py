@@ -154,4 +154,4 @@ async def udemy (ctx):
 
     print("{} Typed !udemy".format(userName))
     
-bot.run('NDk1MTgxMDc4MTc3MzgyNDAw.Do-U7Q.6KnaR5jHVEwPO254mwFQD2wW_yU')
+bot.run('NDk1MTgxMDc4MTc3MzgyNDAw.Do-YNA.GVD5fiyVKNCWQNJBn2rJe_7NGBM')
